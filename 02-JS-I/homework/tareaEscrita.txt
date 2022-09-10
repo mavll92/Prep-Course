@@ -1,0 +1,6 @@
+1.1 VARIABLES: es una palabra a la que se le asigna un valor.
+1.2. STRING: son letras que se escriben entre comillas.
+1.3. FUNCIONES: a) argumentos: son las variables de las funciones, el dato con que la función va a operar.
+b) return: el resultado que nos devuelve en la pantalla esa función.
+1.4. DECLARACIONES IF: son las condiciones que tiene que cumplir para  que la función haga eso.
+1.5. VALORES BOOLEANOS: son 2, verdadero y falso, según sea cierto o falso lo que estamos preguntando con la función en relación a los argumntos.
